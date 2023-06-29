@@ -57,7 +57,7 @@ include ('coneccion_db.php');
                             </div> 
 
                             <div class="form-group mb-2">
-                                <input type="submit" name="boton" id="" class="btn btn-dark form-control">
+                                <input type="submit" name="boton" id="" class="btn btn-dark form-control"> 
                             </div>    
 
                         </form>
